@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Abdullah2althani/abdullah2althani/blob/main/MeWithSupervisuer.JPG"/>
+<img src="https://github.com/Abdullah2althani/abdullah2althani/blob/main/MeWithMySupervisuer.jpg"/>
 
 # 💫 Hi, I'm Abdullah!
 👩🏻‍💻  Software Engineer sharing about my journey and learnings in tech.<br/>
