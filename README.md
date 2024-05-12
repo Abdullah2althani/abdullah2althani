@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi, I'm Abdullah!.
+
+👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech.
+👩🏻‍🎓 Studied Computer Science at King Faisal University, Saudi Arabia. 
+💭 Currently learning about a new framework called Sveltekit!
 
 <!--
 **Abdullah2althani/abdullah2althani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+🙋‍♂️  from Saudi Arabia, I love to work as a Designer and Developer. 
+I enjoy learning languages and frameworks like Django, React, and Sveltekit. 
+I also enjoy wireframing, UI, UX, and designing prototypes in general using Adobe XD.
+
+
