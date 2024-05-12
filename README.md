@@ -1,11 +1,6 @@
 
 <img src="https://github.com/Abdullah2althani/abdullah2althani/blob/main/myProfile.png"/>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
-</p>
-
 # 💫 Hi, I'm Abdullah!
 👩🏻‍💻  Software Engineer sharing about my journey and learnings in tech.<br/>
 🎓  Studied Computer Science at King Faisal University, KSA.<br/>
