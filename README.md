@@ -1,4 +1,6 @@
 
+<img src="https://github.com/Abdullah2althani/abdullah2althani/blob/main/MeSmile2.jpg"/>
+
 # 💫 Hi, I'm Abdullah!
 👩🏻‍💻  Software Engineer sharing about my journey and learnings in tech.<br/>
 🎓  Studied Computer Science at King Faisal University, KSA.<br/>
