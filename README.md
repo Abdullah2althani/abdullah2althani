@@ -1,8 +1,8 @@
 # Hi, I'm Abdullah!.
 
-👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech.
-👩🏻‍🎓 Studied Computer Science at King Faisal University, Saudi Arabia. 
-💭 Currently learning about a new framework called Sveltekit!
+👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech.<br/>
+👩🏻‍🎓 Studied Computer Science at King Faisal University, Saudi Arabia. <br/>
+💭 Currently learning about a new framework called Sveltekit!<br/>
 
 <!--
 **Abdullah2althani/abdullah2althani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
